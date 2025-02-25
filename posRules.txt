@@ -1,6 +1,3 @@
-# Format: 
-# [suffix/prefix/pattern] : [part of speech] : [rule description]
-
 -ness : NOUN : Abstract nouns formed from adjectives (happiness, kindness)
 -ment : NOUN : Nouns formed from verbs (development, assessment)
 -ship : NOUN : Nouns indicating status or condition (friendship, leadership)

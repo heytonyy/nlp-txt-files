@@ -1,6 +1,3 @@
-# Format: 
-# [phrase/pattern] : [importance score (1-10)] : [reason]
-
 INTRODUCTION : 10 : Usually indicates the beginning of main content
 CONCLUSION : 10 : Usually summarizes main points
 SUMMARY : 10 : Directly indicates summarized content
