@@ -1,0 +1,194 @@
+# Format
+# [name] : [Entity Category]
+John : PERSON
+Mary : PERSON
+James : PERSON
+Emma : PERSON
+Michael : PERSON
+Sarah : PERSON
+David : PERSON
+Jennifer : PERSON
+Robert : PERSON
+Lisa : PERSON
+William : PERSON
+Elizabeth : PERSON
+Richard : PERSON
+Susan : PERSON
+Joseph : PERSON
+Karen : PERSON
+Thomas : PERSON
+Nancy : PERSON
+Charles : PERSON
+Jessica : PERSON
+Barack Obama : PERSON
+Donald Trump : PERSON
+Elon Musk : PERSON
+Bill Gates : PERSON
+Steve Jobs : PERSON
+Mark Zuckerberg : PERSON
+Taylor Swift : PERSON
+Beyoncé : PERSON
+Leonardo DiCaprio : PERSON
+Jennifer Lawrence : PERSON
+New York : LOCATION
+Los Angeles : LOCATION
+Chicago : LOCATION
+Houston : LOCATION
+Paris : LOCATION
+London : LOCATION
+Tokyo : LOCATION
+Beijing : LOCATION
+Sydney : LOCATION
+Berlin : LOCATION
+California : LOCATION
+Texas : LOCATION
+Florida : LOCATION
+New York State : LOCATION
+Washington : LOCATION
+Oregon : LOCATION
+Mississippi : LOCATION
+France : LOCATION
+Japan : LOCATION
+China : LOCATION
+Australia : LOCATION
+Germany : LOCATION
+Italy : LOCATION
+Spain : LOCATION
+Mexico : LOCATION
+Canada : LOCATION
+Brazil : LOCATION
+India : LOCATION
+Russia : LOCATION
+Egypt : LOCATION
+Amazon River : LOCATION
+Pacific Ocean : LOCATION
+Atlantic Ocean : LOCATION
+Mediterranean Sea : LOCATION
+Mount Everest : LOCATION
+Grand Canyon : LOCATION
+Sahara Desert : LOCATION
+Alps : LOCATION
+Rocky Mountains : LOCATION
+Niagara Falls : LOCATION
+Google : ORGANIZATION
+Microsoft : ORGANIZATION
+Apple : ORGANIZATION
+Amazon : ORGANIZATION
+Facebook : ORGANIZATION
+Twitter : ORGANIZATION
+Tesla : ORGANIZATION
+IBM : ORGANIZATION
+Intel : ORGANIZATION
+Samsung : ORGANIZATION
+Harvard University : ORGANIZATION
+Stanford University : ORGANIZATION
+MIT : ORGANIZATION
+Oxford University : ORGANIZATION
+NASA : ORGANIZATION
+United Nations : ORGANIZATION
+World Health Organization : ORGANIZATION
+Red Cross : ORGANIZATION
+Walmart : ORGANIZATION
+McDonald's : ORGANIZATION
+Coca-Cola : ORGANIZATION
+Nike : ORGANIZATION
+Disney : ORGANIZATION
+Netflix : ORGANIZATION
+Democratic Party : ORGANIZATION
+Republican Party : ORGANIZATION
+CNN : ORGANIZATION
+New York Times : ORGANIZATION
+National Geographic : ORGANIZATION
+UNICEF : ORGANIZATION
+January : DATE
+February : DATE
+March : DATE
+April : DATE
+May : DATE
+June : DATE
+July : DATE
+August : DATE
+September : DATE
+October : DATE
+November : DATE
+December : DATE
+Monday : DATE
+Tuesday : DATE
+Wednesday : DATE
+Thursday : DATE
+Friday : DATE
+Saturday : DATE
+Sunday : DATE
+2020 : DATE
+2021 : DATE
+2022 : DATE
+2023 : DATE
+2024 : DATE
+morning : TIME
+afternoon : TIME
+evening : TIME
+night : TIME
+midnight : TIME
+noon : TIME
+dawn : TIME
+dusk : TIME
+hourly : TIME
+daily : TIME
+weekly : TIME
+monthly : TIME
+yearly : TIME
+second : TIME
+minute : TIME
+hour : TIME
+dollar : MONEY
+cent : MONEY
+euro : MONEY
+pound : MONEY
+yen : MONEY
+yuan : MONEY
+rupee : MONEY
+bitcoin : MONEY
+cryptocurrency : MONEY
+investment : MONEY
+loan : MONEY
+saving : MONEY
+budget : MONEY
+cost : MONEY
+price : MONEY
+wage : MONEY
+salary : MONEY
+debt : MONEY
+profit : MONEY
+loss : MONEY
+percent : PERCENT
+percentage : PERCENT
+ratio : PERCENT
+proportion : PERCENT
+fraction : PERCENT
+decimal : PERCENT
+half : PERCENT
+quarter : PERCENT
+third : PERCENT
+tenth : PERCENT
+hundredth : PERCENT
+dozen : QUANTITY
+pair : QUANTITY
+couple : QUANTITY
+few : QUANTITY
+several : QUANTITY
+many : QUANTITY
+numerous : QUANTITY
+countless : QUANTITY
+ton : QUANTITY
+kilogram : QUANTITY
+gram : QUANTITY
+pound : QUANTITY
+ounce : QUANTITY
+meter : QUANTITY
+kilometer : QUANTITY
+mile : QUANTITY
+foot : QUANTITY
+inch : QUANTITY
+liter : QUANTITY
+gallon : QUANTITY
+quart : QUANTITY

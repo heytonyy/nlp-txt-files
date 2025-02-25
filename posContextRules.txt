@@ -1,0 +1,53 @@
+# Format: 
+# [pattern] : [target POS] : [rule description]
+
+THE * : NOUN : Words following "the" are usually nouns
+AN * : NOUN : Words following "an" are usually nouns
+A * : NOUN : Words following "a" are usually nouns
+MY * : NOUN : Words following "my" are usually nouns
+YOUR * : NOUN : Words following "your" are usually nouns
+HIS * : NOUN : Words following "his" are usually nouns
+HER * : NOUN : Words following "her" are usually nouns
+THEIR * : NOUN : Words following "their" are usually nouns
+OUR * : NOUN : Words following "our" are usually nouns
+SOME * : NOUN : Words following "some" are often nouns
+ANY * : NOUN : Words following "any" are often nouns
+MANY * : NOUN : Words following "many" are usually nouns
+SEVERAL * : NOUN : Words following "several" are usually nouns
+* 'S : NOUN : Words followed by 's are usually nouns
+TO * : VERB : Words following "to" are usually verbs (infinitive)
+WILL * : VERB : Words following "will" are usually verbs
+SHALL * : VERB : Words following "shall" are usually verbs
+WOULD * : VERB : Words following "would" are usually verbs
+COULD * : VERB : Words following "could" are usually verbs
+SHOULD * : VERB : Words following "should" are usually verbs
+MAY * : VERB : Words following "may" are usually verbs
+MIGHT * : VERB : Words following "might" are usually verbs
+CAN * : VERB : Words following "can" are usually verbs
+MUST * : VERB : Words following "must" are usually verbs
+I * : VERB : Words following "I" are often verbs
+WE * : VERB : Words following "we" are often verbs
+THEY * : VERB : Words following "they" are often verbs
+ALWAYS * : VERB : Words following "always" are often verbs
+NEVER * : VERB : Words following "never" are often verbs
+OFTEN * : VERB : Words following "often" are often verbs
+SOMETIMES * : VERB : Words following "sometimes" are often verbs
+VERY * : ADJ : Words following "very" are usually adjectives
+TOO * : ADJ : Words following "too" are usually adjectives
+SO * : ADJ : Words following "so" are usually adjectives
+QUITE * : ADJ : Words following "quite" are usually adjectives
+EXTREMELY * : ADJ : Words following "extremely" are usually adjectives
+RATHER * : ADJ : Words following "rather" are usually adjectives
+SOMEWHAT * : ADJ : Words following "somewhat" are usually adjectives
+* NOUN : ADJ : Words immediately before a noun are often adjectives
+LOOKS * : ADJ : Words following "looks" are often adjectives
+SEEMS * : ADJ : Words following "seems" are often adjectives
+FEELS * : ADJ : Words following "feels" are often adjectives
+APPEARS * : ADJ : Words following "appears" are often adjectives
+SOUNDS * : ADJ : Words following "sounds" are often adjectives
+* VERB : ADV : Words before verbs can be adverbs
+VERB * : ADV : Words after verbs can be adverbs
+* ADJ : ADV : Words before adjectives can be adverbs
+* VERY : ADV : Words before "very" are often adverbs
+* TOO : ADV : Words before "too" are often adverbs
+* QUICKLY : ADV : Words before other adverbs are often adverbs themselves

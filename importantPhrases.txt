@@ -1,0 +1,81 @@
+# Format: 
+# [phrase/pattern] : [importance score (1-10)] : [reason]
+
+INTRODUCTION : 10 : Usually indicates the beginning of main content
+CONCLUSION : 10 : Usually summarizes main points
+SUMMARY : 10 : Directly indicates summarized content
+IN SUMMARY : 10 : Directly indicates summarized content
+TO CONCLUDE : 9 : Indicates concluding thoughts
+FINALLY : 8 : Often introduces final important points
+MOST IMPORTANTLY : 9 : Highlights critical information
+SIGNIFICANTLY : 8 : Indicates important information
+NOTABLY : 8 : Draws attention to noteworthy information
+ESSENTIALLY : 7 : Indicates core concepts
+FUNDAMENTALLY : 7 : Indicates foundational information
+PRIMARILY : 7 : Indicates main points
+CHIEFLY : 7 : Indicates main concerns or topics
+BECAUSE : 6 : Indicates causal relationships
+THEREFORE : 8 : Indicates conclusions from premises
+CONSEQUENTLY : 8 : Indicates results or outcomes
+AS A RESULT : 8 : Indicates outcomes or effects
+THUS : 8 : Indicates logical conclusions
+HENCE : 7 : Indicates logical conclusions
+DUE TO : 6 : Indicates causal relationships
+HOWEVER : 7 : Indicates contrasting information
+NEVERTHELESS : 7 : Indicates contrasting information
+DESPITE : 7 : Introduces contrasting elements
+ALTHOUGH : 6 : Introduces contrasting elements
+ON THE OTHER HAND : 7 : Indicates alternative viewpoints
+CONVERSELY : 7 : Indicates opposing information
+IN CONTRAST : 7 : Directly indicates contrasting information
+IT IS IMPORTANT TO NOTE : 9 : Directly highlights importance
+NOTABLY : 8 : Emphasizes significant information
+PARTICULARLY : 7 : Emphasizes specific information
+ESPECIALLY : 7 : Emphasizes specific information
+CRUCIALLY : 9 : Indicates critical information
+SIGNIFICANTLY : 8 : Indicates important information
+INDEED : 6 : Often reinforces important points
+FIRSTLY : 6 : Indicates the beginning of key points
+SECONDLY : 6 : Indicates continuation of key points
+THIRDLY : 6 : Indicates continuation of key points
+FINALLY : 7 : Indicates conclusion of key points
+FIRST : 6 : Indicates the beginning of key points
+SECOND : 6 : Indicates continuation of key points
+LAST : 6 : Indicates final points
+ABSTRACT : 10 : Contains summary of entire paper
+OBJECTIVE : 9 : States the main goal
+HYPOTHESIS : 9 : States what is being tested
+METHODOLOGY : 8 : Explains how research was conducted
+RESULTS SHOW : 9 : Indicates findings
+FINDINGS SUGGEST : 9 : Indicates conclusions from data
+DATA INDICATES : 8 : Presents evidence-based conclusions
+RESEARCH DEMONSTRATES : 8 : Presents confirmed information
+ACCORDING TO THE STUDY : 7 : References specific findings
+MAJORITY : 7 : Indicates predominant findings
+SIGNIFICANT PERCENTAGE : 8 : Indicates statistically relevant information
+SUBSTANTIAL EVIDENCE : 8 : Indicates strong supporting data
+STRONG CORRELATION : 8 : Indicates important relationships
+STATISTICALLY SIGNIFICANT : 9 : Indicates validated findings
+SURVEY RESULTS : 7 : Indicates data-based findings
+DATA SHOWS : 8 : Introduces factual information
+MAIN ARGUMENT : 9 : Directly indicates central thesis
+KEY POINT : 8 : Directly indicates important information
+CENTRAL IDEA : 9 : Directly indicates core concept
+THESIS : 9 : Indicates the main argument
+EVIDENCE SUGGESTS : 7 : Introduces factual support
+EXPERTS AGREE : 7 : Indicates consensus
+RESEARCH INDICATES : 7 : Introduces evidence-based claims
+INITIALLY : 5 : Indicates starting points
+SUBSEQUENTLY : 5 : Indicates progression
+ULTIMATELY : 7 : Often indicates final outcomes or conclusions
+PREVIOUSLY : 5 : Refers to earlier points
+RECENTLY : 6 : May indicate current relevance
+HISTORICALLY : 6 : Provides background context
+TRADITIONALLY : 5 : Provides background context
+DEFINED AS : 7 : Introduces key definitions
+REFERS TO : 6 : Clarifies terminology
+MEANS : 6 : Explains concepts
+CONSISTS OF : 6 : Explains components
+COMPRISES : 6 : Explains components
+IS CHARACTERIZED BY : 7 : Explains key features
+REPRESENTS : 6 : Explains symbolic meaning
