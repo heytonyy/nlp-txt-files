@@ -32,9 +32,9 @@ A text files that associates a given phase with a importance score.
 > Format: <br>
 > [phrase/pattern] : [importance score (1-10)] : [reason]
 
-## password-10000.txt
+## password.txt
 
-A text files that contains 10000 of the most common passwords used.
+A text files that contains 500 common passwords used.
 
 ## patterns.txt
 
