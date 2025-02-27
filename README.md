@@ -69,7 +69,14 @@ A text files that contains base words and all the various of the word.
 A text files that contains common words, their part of speech, and definition.
 
 > Format: <br>
-> [word]|[part of speach]|[defintion]|[link to defition on dictionary.com]
+> [word] | [part of speach] | [defintion] | [link to defition on dictionary.com]
+
+## synonyms.txt
+
+A text files that contains common words and synonyms associated with that word
+
+> Format: <br>
+> [word],[synonym],[synonym],[synonym],[synonym],[synonym],[synonym],[synonym]
 
 ## words-1000.txt
 
