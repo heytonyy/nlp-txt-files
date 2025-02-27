@@ -78,6 +78,13 @@ A text files that contains common words and synonyms associated with that word
 > Format: <br>
 > [word],[synonym],[synonym],[synonym],[synonym],[synonym],[synonym],[synonym]
 
+## translations.txt
+
+A text files that contains common english words, and the translate form in spanish, korean (roman characters), armenian (roman characters), and italian
+
+> Format: <br>
+> [english],[spanish],[korea],[armenian],[italian]
+
 ## words-1000.txt
 
 A text files that contains the top 1000 words used in the english language.
